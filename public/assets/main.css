@@ -1,0 +1,36 @@
+#ringoMap {
+    height: 900px;
+}
+
+h1{
+    text-align: center;
+    color: #FFF;
+    background-color: #FF5733;
+}
+
+h2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.prevision {
+    display: none;
+}
+
+div[class^="p"] {
+    min-width: 200px;
+}
+
+.condition{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div .fa, div .fab, div .fas{
+    font-size: 3em;
+}
+
+h2 .fa, h2 .fab, h2 .fas{
+    font-size: 1.2em;
+}

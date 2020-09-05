@@ -5,7 +5,7 @@
         "date": "2010-02-18 17:31:00",
         "introduction": "Prévisions pour LA REUNION, le 18/02/10 à 12 h locales, valables pour cet après-midi et la nuit prochaine",
         "situation": "La masse est encore humide et instable. Vigilance fortes pluies jusqu'à cet après-midi 17h.",
-        "previsions": "<p>Cet aprés-midi, les éclaircies se maintiennent sur le littoral de St Denis à St Pierre en passant par St Benoit. Toutefois, des passages nuageux parfois accompagnés d'averses touchent ponctuellement l'Est de l'île en cours d'après-midi. Dans l'intérieur, le ciel est bien gris. Ces nuages sont associés à des averses, en particulier dans les hauts de l'Ouest et du Sud-Ouest où elles sont localement fortes et parfois orageuses. Ces averses se décalent vers la bordure cotière, de la route du littoral jusqu'à St Leu. Le vent d'Est à Sud-Est est modéré à assez fort. Il atteint 60 à 70 km/h en pointe sur le Nord-Est, entre Gillot et Saint-André et le Sud-Ouest de l'Etang Salé à Saint-Joseph. La mer est agitée à forte dans ces secteurs.</p><p>Cette nuit, des averses se produisent principalement sur les régions allant de St André à St Joseph. Ailleurs, le temps est agréable.</p><p>Pour information La Forte Tempête Tropicale GELANE 975 hPa, était située à 10 heures locales vers 14. 9 Sud / 62. 1 Est, soit à 950 km au Nord-Est de la Réunion. Le déplacement est de Sud-Sud-Est à 5 km/h.</p>",
+        "previsions": "Cet aprés-midi, les éclaircies se maintiennent sur le littoral de St Denis à St Pierre en passant par St Benoit. Toutefois, des passages nuageux parfois accompagnés d'averses touchent ponctuellement l'Est de l'île en cours d'après-midi. Dans l'intérieur, le ciel est bien gris. Ces nuages sont associés à des averses, en particulier dans les hauts de l'Ouest et du Sud-Ouest où elles sont localement fortes et parfois orageuses. Ces averses se décalent vers la bordure cotière, de la route du littoral jusqu'à St Leu. Le vent d'Est à Sud-Est est modéré à assez fort. Il atteint 60 à 70 km/h en pointe sur le Nord-Est, entre Gillot et Saint-André et le Sud-Ouest de l'Etang Salé à Saint-Joseph. La mer est agitée à forte dans ces secteurs.</p><p>Cette nuit, des averses se produisent principalement sur les régions allant de St André à St Joseph. Ailleurs, le temps est agréable.</p><p>Pour information La Forte Tempête Tropicale GELANE 975 hPa, était située à 10 heures locales vers 14. 9 Sud / 62. 1 Est, soit à 950 km au Nord-Est de la Réunion. Le déplacement est de Sud-Sud-Est à 5 km/h.",
         "pression": {
           "-date": "2010-02-18 11:00:00",
           "-lieu": "Gillot",
@@ -21,6 +21,7 @@
             "-vent_force": "4",
             "-vent_rafales": "34",
             "-humidite": "81",
+            "condition": "Ensoleillé",
             "coordinates": [
               55.471343994140625,
               -21.132542950367966
@@ -35,6 +36,7 @@
             "-vent_force": "5",
             "-vent_rafales": "34",
             "-humidite": "82",
+            "condition": "Ensoleillé",
             "coordinates": [
               55.55459976196288,
               -21.22426154416536
@@ -49,6 +51,7 @@
             "-vent_force": "23",
             "-vent_rafales": "36",
             "-humidite": "76",
+            "condition": "Ensoleillé",
             "coordinates": [
               55.63871383666992,
               -21.136065481691592
@@ -63,6 +66,7 @@
             "-vent_force": "4",
             "-vent_rafales": "33",
             "-humidite": "82",
+            "condition": "Pluie faible",
             "coordinates": [
               55.29067039489746,
               -20.935308258491343
@@ -77,6 +81,7 @@
             "-vent_force": "20",
             "-vent_rafales": "31",
             "-humidite": "76",
+            "condition": "Voilé",
             "coordinates": [
               55.51288604736328,
               -21.281056878709553
@@ -91,6 +96,7 @@
             "-vent_force": "23",
             "-vent_rafales": "37",
             "-humidite": "83",
+            "condition": "Pluie faible",
             "coordinates": [
               55.648841857910156,
               -20.959035078761598
@@ -105,6 +111,7 @@
             "-vent_force": "23",
             "-vent_rafales": "38",
             "-humidite": "79",
+            "condition": "Voilé",
             "coordinates": [
               55.70995330810547,
               -21.034519020858227
@@ -119,6 +126,7 @@
             "-vent_force": "15",
             "-vent_rafales": "49",
             "-humidite": "80",
+            "condition": "Voilé",
             "coordinates": [
               55.446624755859375,
               -20.878701415010315
@@ -133,6 +141,7 @@
             "-vent_force": "21",
             "-vent_rafales": "46",
             "-humidite": "84",
+            "condition": "Pluie faible",
             "coordinates": [
               55.28749465942383,
               -21.167444336727833
@@ -147,6 +156,7 @@
             "-vent_force": "0",
             "-vent_rafales": "38",
             "-humidite": "77",
+            "condition": "Voilé",
             "coordinates": [
               55.41435241699218,
               -21.286815182224156
@@ -161,6 +171,7 @@
             "-vent_force": "11",
             "-vent_rafales": "23",
             "-humidite": "84",
+            "condition": "Pluie faible",
             "coordinates": [
               55.27599334716797,
               -21.004714636166792
@@ -176,6 +187,7 @@
             "-vent_force": "18",
             "-vent_rafales": "38",
             "-humidite": "81",
+            "condition": "Pluie faible",
             "coordinates": [
               55.765056610107415,
               -21.360853248957188
@@ -190,6 +202,7 @@
             "-vent_force": "37",
             "-vent_rafales": "54",
             "-humidite": "82",
+            "condition": "Pluie faible",
             "coordinates": [
               55.47683715820312,
               -21.335112066532552
@@ -204,6 +217,7 @@
             "-vent_force": "39",
             "-vent_rafales": "71",
             "-humidite": "79",
+            "condition": "Voilé",
             "coordinates": [
               55.55047988891601,
               -20.897626192784756
@@ -218,6 +232,7 @@
             "-vent_force": "0",
             "-vent_rafales": "22",
             "-humidite": "81",
+            "condition": "Pluie faible",
             "coordinates": [
               55.821962356567376,
               -21.158959894116233
@@ -237,7 +252,8 @@
                 "-temps": "15",
                 "-vent_direction": "SE",
                 "-vent_force": "31",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LA PLAINE DES CAFRES",
@@ -246,7 +262,8 @@
                 "-temps": "15",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LA PLAINE DES PALMISTES",
@@ -255,7 +272,8 @@
                 "-temps": "15",
                 "-vent_direction": "SE",
                 "-vent_force": "17",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LE PORT",
@@ -264,7 +282,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "32",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE TAMPON",
@@ -273,7 +292,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "35",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-ANDRE",
@@ -282,7 +302,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "24",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-BENOIT",
@@ -291,7 +312,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "16",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-DENIS",
@@ -300,7 +322,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "18",
-                "-humidite": "81"
+                "-humidite": "81",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-LEU",
@@ -309,7 +332,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "16",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-LOUIS",
@@ -318,7 +342,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "26",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-PAUL",
@@ -327,7 +352,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "34",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PHILIPPE",
@@ -336,7 +362,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "23",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-PIERRE",
@@ -345,7 +372,8 @@
                 "-temps": "03",
                 "-vent_direction": "ESE",
                 "-vent_force": "33",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINTE-MARIE",
@@ -354,7 +382,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "32",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINTE-ROSE",
@@ -363,7 +392,8 @@
                 "-temps": "03",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Voilé"
               }
             ]
           },
@@ -377,7 +407,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "12",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Voilé"
               },
               {
                 "-id": "LA PLAINE DES CAFRES",
@@ -386,7 +417,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "21",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "LA PLAINE DES PALMISTES",
@@ -395,7 +427,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "26",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Voilé"
               },
               {
                 "-id": "LE PORT",
@@ -404,7 +437,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "20",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LE TAMPON",
@@ -413,7 +447,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "29",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-ANDRE",
@@ -422,7 +457,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "17",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-BENOIT",
@@ -431,7 +467,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "16",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-DENIS",
@@ -440,7 +477,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "30",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-LEU",
@@ -449,7 +487,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "16",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-LOUIS",
@@ -458,7 +497,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "26",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PAUL",
@@ -467,7 +507,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "26",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PHILIPPE",
@@ -476,7 +517,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "18",
-                "-humidite": "81"
+                "-humidite": "81",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PIERRE",
@@ -485,7 +527,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "27",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINTE-MARIE",
@@ -494,7 +537,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINTE-ROSE",
@@ -503,7 +547,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "79"
+                "-humidite": "79",
+                "condition": "Ensoleillé"
               }
             ]
           },
@@ -517,7 +562,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "26",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LA PLAINE DES CAFRES",
@@ -526,7 +572,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "LA PLAINE DES PALMISTES",
@@ -535,7 +582,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "19",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE PORT",
@@ -544,7 +592,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "23",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE TAMPON",
@@ -553,7 +602,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-ANDRE",
@@ -562,7 +612,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "31",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-BENOIT",
@@ -571,7 +622,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "21",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-DENIS",
@@ -580,7 +632,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "34",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-LEU",
@@ -589,7 +642,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "18",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-LOUIS",
@@ -598,7 +652,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "34",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PAUL",
@@ -607,7 +662,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "33",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PHILIPPE",
@@ -616,7 +672,8 @@
                 "-temps": "17",
                 "-vent_direction": "SE",
                 "-vent_force": "27",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-PIERRE",
@@ -625,7 +682,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "32",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINTE-MARIE",
@@ -634,7 +692,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "19",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINTE-ROSE",
@@ -643,7 +702,8 @@
                 "-temps": "18",
                 "-vent_direction": "SE",
                 "-vent_force": "28",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               }
             ]
           },
@@ -657,7 +717,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "15",
-                "-humidite": "81"
+                "-humidite": "81",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LA PLAINE DES CAFRES",
@@ -666,7 +727,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "16",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LA PLAINE DES PALMISTES",
@@ -675,7 +737,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "28",
-                "-humidite": "80"
+                "-humidite": "80",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE PORT",
@@ -684,7 +747,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "20",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "LE TAMPON",
@@ -693,7 +757,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "28",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-ANDRE",
@@ -702,7 +767,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "12",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-BENOIT",
@@ -711,7 +777,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "19",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-DENIS",
@@ -720,7 +787,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "12",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-LEU",
@@ -729,7 +797,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "15",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-LOUIS",
@@ -738,7 +807,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "13",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-PAUL",
@@ -747,7 +817,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "31",
-                "-humidite": "75"
+                "-humidite": "75",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-PHILIPPE",
@@ -756,7 +827,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "26",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-PIERRE",
@@ -765,7 +837,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "30",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINTE-MARIE",
@@ -774,7 +847,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "19",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINTE-ROSE",
@@ -783,7 +857,8 @@
                 "-temps": "02",
                 "-vent_direction": "SE",
                 "-vent_force": "21",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Voilé"
               }
             ]
           },
@@ -797,7 +872,8 @@
                 "-temps": "15",
                 "-vent_direction": "SSE",
                 "-vent_force": "21",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LA PLAINE DES CAFRES",
@@ -806,7 +882,8 @@
                 "-temps": "15",
                 "-vent_direction": "SSE",
                 "-vent_force": "28",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LA PLAINE DES PALMISTES",
@@ -815,7 +892,8 @@
                 "-temps": "15",
                 "-vent_direction": "SSE",
                 "-vent_force": "15",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE PORT",
@@ -824,7 +902,8 @@
                 "-temps": "14",
                 "-vent_direction": "SSE",
                 "-vent_force": "11",
-                "-humidite": "81"
+                "-humidite": "81",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "LE TAMPON",
@@ -833,7 +912,8 @@
                 "-temps": "15",
                 "-vent_direction": "SE",
                 "-vent_force": "24",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-ANDRE",
@@ -842,7 +922,8 @@
                 "-temps": "12",
                 "-vent_direction": "SSE",
                 "-vent_force": "22",
-                "-humidite": "83"
+                "-humidite": "83",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-BENOIT",
@@ -851,7 +932,8 @@
                 "-temps": "12",
                 "-vent_direction": "SSE",
                 "-vent_force": "12",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-DENIS",
@@ -860,7 +942,8 @@
                 "-temps": "14",
                 "-vent_direction": "SSE",
                 "-vent_force": "29",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINT-LEU",
@@ -869,7 +952,8 @@
                 "-temps": "12",
                 "-vent_direction": "SE",
                 "-vent_force": "11",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-LOUIS",
@@ -878,7 +962,8 @@
                 "-temps": "12",
                 "-vent_direction": "SE",
                 "-vent_force": "18",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-PAUL",
@@ -887,7 +972,8 @@
                 "-temps": "12",
                 "-vent_direction": "SE",
                 "-vent_force": "12",
-                "-humidite": "76"
+                "-humidite": "76",
+                "condition": "Ensoleillé"
               },
               {
                 "-id": "SAINT-PHILIPPE",
@@ -896,7 +982,8 @@
                 "-temps": "15",
                 "-vent_direction": "SE",
                 "-vent_force": "10",
-                "-humidite": "78"
+                "-humidite": "78",
+                "condition": "Voilé"
               },
               {
                 "-id": "SAINT-PIERRE",
@@ -905,7 +992,8 @@
                 "-temps": "12",
                 "-vent_direction": "SE",
                 "-vent_force": "25",
-                "-humidite": "82"
+                "-humidite": "82",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINTE-MARIE",
@@ -914,7 +1002,8 @@
                 "-temps": "14",
                 "-vent_direction": "SSE",
                 "-vent_force": "29",
-                "-humidite": "84"
+                "-humidite": "84",
+                "condition": "Pluie faible"
               },
               {
                 "-id": "SAINTE-ROSE",
@@ -923,7 +1012,8 @@
                 "-temps": "12",
                 "-vent_direction": "SSE",
                 "-vent_force": "27",
-                "-humidite": "77"
+                "-humidite": "77",
+                "condition": "Ensoleillé"
               }
             ]
           }
