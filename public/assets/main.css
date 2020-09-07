@@ -19,6 +19,12 @@ h1{
     font-size: large;
 }
 
+.leaflet-credit img{
+    margin-left: -38px;
+    margin-bottom: -5px;
+    width: 65px;
+}
+
 .fa-envira{
     color: #B4E05F;
     font-size: 1.5em;
