@@ -1,4 +1,20 @@
+//VARS
+var data;
 
+var cities  = {
+  "type": "FeatureCollection",
+  "features": []
+}
+
+var previsions = {
+  "type": "FeatureCollection",
+  "features": []
+}
+
+/**
+ * Get JSON File
+ * @param {*} callback: function 
+ */
 function loadJSON(callback) {
 
   var xobj = new XMLHttpRequest();
@@ -12,32 +28,27 @@ function loadJSON(callback) {
     }
   };
   xobj.send(null);
+
 }
 
-var data;
-
+/**
+ * Get JSON response data
+ * @param function : function
+ */
 loadJSON(function (response) {
+
   // Parse JSON string into object
   data = JSON.parse(response);
+
 });
 // console.log(data)
 
-var cities  = {
-  "type": "FeatureCollection",
-  "features": []
-}
 
-var previsions = {
-  "type": "FeatureCollection",
-  "features": []
-}
-
-var lng = 55.471;
-var lat = -21.132;
-
-
-
+/**
+ * Push cities data objects
+ */
 for(i=0; i < data.meteo.bulletin.ville.length; i++){
+
   let icon, color;
   if(data.meteo.bulletin.ville[i].condition == "Ensoleillé" ){icon = "fas fa-sun"; color = "#FFE168"}
   else if(data.meteo.bulletin.ville[i].condition == "Pluie faible"){icon = "fas fa-cloud-sun-rain"; color = "#4DBFD9"}
@@ -67,17 +78,22 @@ for(i=0; i < data.meteo.bulletin.ville.length; i++){
     },
     "previsions": []
   }
+
   cities.features.push(city)
-  // console.log(cities.features[i])
+
 }
 
+/**
+ * Push weather forecast data objects
+ */
 data.meteo.previsions.prevision.forEach(element => {
 
     for(i=0; i < element.ville.length; i++){
       let icon, color;
+
       if(element.ville[i].condition == "Ensoleillé" ){icon = "fas fa-sun"; color = "#FFE168"}
       else if(element.ville[i].condition == "Pluie faible"){icon = "fas fa-cloud-sun-rain"; color = "#4DBFD9"}
-      else{icon = "fab fa-soundcloud"; color = "#363630"}
+      else{icon = "fab fa-soundcloud"; color = "#666660"}
       
       let prevision = {
           "date": element["-date"],
