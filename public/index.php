@@ -15,7 +15,7 @@
 <body>
 
     <h1>GeoJSON Weather by <a href="mailto:ahmidbbc@gmail.com">Abdel</a></h1>
-    <p class="leaflet-credit">with Leaflet API <img src="assets/leaflet.png" alt=""></p> 
+    <p class="leaflet-credit">with Leaflet API <img src="assets/leaflet.png" alt="leaflet"></p> 
     <!-- <i class="fab fa-envira fa-rotate-90"></i> -->
     
 
