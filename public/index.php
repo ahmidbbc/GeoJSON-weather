@@ -9,12 +9,12 @@
     <link rel="stylesheet" href="assets/main.css" />
     <script src="https://kit.fontawesome.com/a52eb46639.js" crossorigin="anonymous"></script>
 
-    <title>GeoJSON Météo</title>
+    <title>GeoJSON weather</title>
 </head>
 
 <body>
 
-    <h1>GeoJSON Météo by <a href="mailto:ahmidbbc@gmail.com">Abdel</a></h1>
+    <h1>GeoJSON Weather by <a href="mailto:ahmidbbc@gmail.com">Abdel</a></h1>
     <p class="leaflet-credit">with Leaflet API <i class="fab fa-envira fa-rotate-90"></i></p>
 
 
