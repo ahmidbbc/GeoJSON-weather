@@ -15,9 +15,7 @@
 <body>
 
     <h1>GeoJSON Weather by <a href="mailto:ahmidbbc@gmail.com">Abdel</a></h1>
-    <p class="leaflet-credit">with Leaflet API <img src="assets/leaflet.png" alt="leaflet"></p> 
-    <!-- <i class="fab fa-envira fa-rotate-90"></i> -->
-    
+    <p class="leaflet-credit">with Leaflet API <img src="assets/leaflet.png" alt="leaflet"></p>     
 
     <!-- weather report -->
     <section id="report">
@@ -175,9 +173,7 @@
 
             var dateElt = document.getElementById('date');
             const day = new Date(data.meteo.bulletin.date)
-            dateElt.innerHTML = day.toLocaleString("fr-FR", {
-                timeZone: "Europe/Paris"
-            }).split(',')[0];
+            dateElt.innerHTML = day.toLocaleString("fr-FR", {weekday: "long", year: "numeric", month: "long", day: "numeric"});
             console.log();
 
             var introElt = document.getElementById('intro');
