@@ -1,6 +1,6 @@
 # GeoJSON
 
-GeoJSON weather is a simple single weather forecast page made with the open-source Leaftlet API and Vanilla JS.\
+GeoJSON weather is a simple single weather forecast page made with the open-source Leaftlet geolocation API and Vanilla JS.\
 This project is in French, feel free to modify as you want according to MIT license
 
 ## Demo
