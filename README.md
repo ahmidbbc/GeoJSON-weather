@@ -1,6 +1,7 @@
 # GeoJSON
 
 GeoJSON weather is a simple single weather forecast page made with the open-source Leaftlet geolocation API and Vanilla JS.\
+This is a 6-day weather forecast based on a JSON data file structured in geoJSON format for accuracy.\
 This project is in French, feel free to modify as you want according to MIT license
 
 ## Demo
