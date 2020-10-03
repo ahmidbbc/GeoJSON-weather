@@ -29,7 +29,7 @@ How to use:
 
 ## Custom
 
-The template files are at `public/`, so you can modify the template files (index.html) and css file (main.css).\ 
+The template files are at `public/`, so you can modify the template files (index.html) and css file (main.css). 
 If you want use your own data you can replace the json file or modify the data directly into the file.\
 \
 :warning: Make sure to respect the structure of the GeoJSON file.
