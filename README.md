@@ -18,7 +18,7 @@ How to use:
 4. OR just serve the project from your favourite IDE ^^
 5. Enjoy ! :metal:
 
-## Features
+## Tech
 
 * HTML5 / CSS3
 * Vanillas JS
@@ -30,7 +30,7 @@ How to use:
 ## Custom
 
 The template files are at `public/`, so you can modify the template files (index.html) and css file (main.css).\ 
-If you want use your own data you can replace the json file or modify tee data directly into the file.\
+If you want use your own data you can replace the json file or modify the data directly into the file.\
 \
 :warning: Make sure to respect the structure of the GeoJSON file.
 
